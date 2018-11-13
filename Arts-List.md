@@ -28,3 +28,6 @@
 [LoggingThe Ultimate Guide](https://www.loggly.com/ultimate-guide/java-logging-basics/#additional-resources)</br>
 [关于日志的思考](https://blog.hellojukay.cn/2018/11/11/20181111/)</br>
 [关于日志的那些事儿](https://github.com/yangjinlong86/arts/blob/master/2018/about-logfile.md)</br>
+
+
+[GitHub 寻宝指南](https://mp.weixin.qq.com/s/vYcZBIYWmGx9OnzzD4y8EA)</br>
