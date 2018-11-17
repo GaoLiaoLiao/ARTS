@@ -10,6 +10,7 @@
   
 ## 设计模式
   1. [Design Pattern: A collection of design patterns/idioms in Python](https://github.com/faif/python-patterns)</br>
+  2. [从生活中领悟设计模式（Python）](https://gitbook.cn/gitchat/column/5b26040ac81ac568fcf64ea3)</br>
   
 ## 爬虫
   1. [爬虫：Python3网络爬虫实战](https://github.com/Jack-Cherish/python-spider)</br>
