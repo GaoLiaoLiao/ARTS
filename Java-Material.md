@@ -2,10 +2,13 @@
 
 ## 知识笔记
   1. [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)</br>
+  2. [【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。](https://github.com/Snailclimb/JavaGuide)</br>
+  3. [crossoverJie: 处于萌芽阶段的 Java 核心知识库。](https://github.com/crossoverJie/JCSprout)</br>
 
 ## 设计模式
   1. [经典设计模式实战演练](https://gitbook.cn/gitchat/column/5b1e3647294fb04d7c22b783#catalog)</br>
   
 
 ## Distributed System
-  1. [Consistency in Distributed Systems](https://mwhittaker.github.io/consistency_in_distributed_systems/)</br>
+  1. [Martin Kleppmann](martin.kleppmann.com)
+  2. [Consistency in Distributed Systems](https://mwhittaker.github.io/consistency_in_distributed_systems/)</br>
