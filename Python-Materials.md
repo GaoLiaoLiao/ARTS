@@ -21,3 +21,5 @@
 ## 机器学习
   1. [机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归](https://github.com/Jack-Cherish/Machine-Learning)</br>
   2. [Jack Cui](cuijiahua.com)</br>
+  3. [deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）](https://github.com/fengdu78/deeplearning_ai_books)
+  4. [吴恩达老师的机器学习课程个人笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
