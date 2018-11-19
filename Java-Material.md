@@ -19,3 +19,4 @@
 
 ## 杂
   1. [开源项目挣钱实用手册](https://github.com/wizicer/FinancialSupportForOpenSource)
+  2. [git-flight-rules](https://github.com/k88hudson/git-flight-rules)
