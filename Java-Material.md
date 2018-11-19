@@ -12,3 +12,10 @@
 ## Distributed System
   1. [Martin Kleppmann](martin.kleppmann.com)
   2. [Consistency in Distributed Systems](https://mwhittaker.github.io/consistency_in_distributed_systems/)</br>
+
+## System Desgin
+  1. [System Design Interview - A Coder's Journey](http://www.acodersjourney.com/tag/system-design-interviews/)
+
+
+## 杂
+  1. [开源项目挣钱实用手册](https://github.com/wizicer/FinancialSupportForOpenSource)
