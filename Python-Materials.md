@@ -5,7 +5,7 @@
   3. [schedule: Python job scheduling for humans.](https://github.com/dbader/schedule)
   
 ## 刷题
-  1. [Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现](https://github.com/apachecn/awesome-algorithm)</br>
+  1. [Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现](https://github.com/apachecn/awesome-algorithm/tree/master/docs/Leetcode_Solutions/Python)</br>
   2. [leetcode-share](https://github.com/gavinfish/leetcode-share/tree/master/python)</br>
   3. [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)</br>
   
