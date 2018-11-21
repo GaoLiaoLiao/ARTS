@@ -26,6 +26,9 @@
   4. [吴恩达老师的机器学习课程个人笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
   5. [100_Numpy_exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb)
   6. [机器学习极简入门课 - 李烨](https://gitbook.cn/gitchat/column/5ad70dea9a722231b25ddbf8#catalog)
+  7. [《统计学习方法》笔记-基于Python算法实现](https://github.com/wzyonggege/statistical-learning-method)
+  8. [《统计学习方法》一书中所有算法实现一遍 ](https://github.com/WenDesi/lihang_book_algorithm)
+  
   
 ### 决策树
   1. [为什么信息熵要定义成-Σp*log(p)?](https://www.zhihu.com/question/30828247)
