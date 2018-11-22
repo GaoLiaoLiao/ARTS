@@ -29,6 +29,8 @@
   7. [《统计学习方法》笔记-基于Python算法实现](https://github.com/wzyonggege/statistical-learning-method)
   8. [《统计学习方法》一书中所有算法实现一遍 ](https://github.com/WenDesi/lihang_book_algorithm)
   
+### 数学基础
+  1. [机器学习常用「微积分」知识速查手册](https://gitbook.cn/books/59ee907516fc0231837614e3/index.html)
   
 ### 决策树
   1. [为什么信息熵要定义成-Σp*log(p)?](https://www.zhihu.com/question/30828247)
