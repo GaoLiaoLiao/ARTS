@@ -35,4 +35,5 @@
   
 ### 决策树
   1. [为什么信息熵要定义成-Σp*log(p)?](https://www.zhihu.com/question/30828247)
+  2. [机器学习中的矩阵/向量求导](https://zhuanlan.zhihu.com/p/25063314)
 
