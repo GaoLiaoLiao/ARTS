@@ -32,8 +32,9 @@
 ### 数学基础
   1. [机器学习常用「微积分」知识速查手册](https://gitbook.cn/books/59ee907516fc0231837614e3/index.html)
   2. [闲话矩阵求导](xuehy.github.io/blog/2014/04/18/2014-04-18-matrixcalc/index.html)
+  3. [机器学习中的矩阵/向量求导](https://zhuanlan.zhihu.com/p/25063314)
   
 ### 决策树
   1. [为什么信息熵要定义成-Σp*log(p)?](https://www.zhihu.com/question/30828247)
-  2. [机器学习中的矩阵/向量求导](https://zhuanlan.zhihu.com/p/25063314)
+
 
