@@ -29,8 +29,7 @@
   7. [《统计学习方法》笔记-基于Python算法实现](https://github.com/wzyonggege/statistical-learning-method)
   8. [《统计学习方法》一书中所有算法实现一遍 ](https://github.com/WenDesi/lihang_book_algorithm)
   9. [机器学习爱好者知乎专栏 - 黄海广](https://zhuanlan.zhihu.com/fengdu78)
-  10. [Choosing the Right Machine Learning Algorithm](https://hackernoon.com/choosing-the-right-machine-learning-algorithm-68126944ce1f)
-  
+    
 ### 数学基础
   1. [机器学习常用「微积分」知识速查手册](https://gitbook.cn/books/59ee907516fc0231837614e3/index.html)
   2. [闲话矩阵求导](xuehy.github.io/blog/2014/04/18/2014-04-18-matrixcalc/index.html)
@@ -38,5 +37,9 @@
   
 ### 决策树
   1. [为什么信息熵要定义成-Σp*log(p)?](https://www.zhihu.com/question/30828247)
+
+### 面试
+  1. [Choosing the Right Machine Learning Algorithm](https://hackernoon.com/choosing-the-right-machine-learning-algorithm-68126944ce1f)
+  2. [41 Essential Machine Learning Interview Questions (with answers)](https://www.springboard.com/blog/machine-learning-interview-questions/)
 
 
