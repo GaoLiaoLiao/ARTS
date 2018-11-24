@@ -29,6 +29,7 @@
   7. [《统计学习方法》笔记-基于Python算法实现](https://github.com/wzyonggege/statistical-learning-method)
   8. [《统计学习方法》一书中所有算法实现一遍 ](https://github.com/WenDesi/lihang_book_algorithm)
   9. [机器学习爱好者知乎专栏 - 黄海广](https://zhuanlan.zhihu.com/fengdu78)
+  10. [神经网络与深度学习 - 邱锡鹏](https://nndl.github.io)
     
 ### 数学基础
   1. [机器学习常用「微积分」知识速查手册](https://gitbook.cn/books/59ee907516fc0231837614e3/index.html)
