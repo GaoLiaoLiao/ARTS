@@ -36,6 +36,7 @@
   1. [机器学习常用「微积分」知识速查手册](https://gitbook.cn/books/59ee907516fc0231837614e3/index.html)
   2. [闲话矩阵求导](xuehy.github.io/blog/2014/04/18/2014-04-18-matrixcalc/index.html)
   3. [机器学习中的矩阵/向量求导](https://zhuanlan.zhihu.com/p/25063314)
+  4. [神经网络与深度学习(数学基础) - 邱锡鹏](https://nndl.github.io/chap-%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80.pdf)
   
 ### 决策树
   1. [为什么信息熵要定义成-Σp*log(p)?](https://www.zhihu.com/question/30828247)
