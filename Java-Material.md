@@ -12,8 +12,9 @@
 ## Distributed System
   1. [Martin Kleppmann](martin.kleppmann.com)
   2. [Consistency in Distributed Systems](https://mwhittaker.github.io/consistency_in_distributed_systems/)</br>
+  3. [【Raft】Visualizations Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/)</br>
 
-## System Desgin
+## System Desgin 
   1. [System Design Interview - A Coder's Journey](http://www.acodersjourney.com/tag/system-design-interviews/)
 
 
