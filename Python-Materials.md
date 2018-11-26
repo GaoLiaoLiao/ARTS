@@ -38,11 +38,12 @@
   3. [机器学习中的矩阵/向量求导](https://zhuanlan.zhihu.com/p/25063314)
   4. [神经网络与深度学习(数学基础) - 邱锡鹏](https://nndl.github.io/chap-%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80.pdf)
   
-### 决策树
-  1. [为什么信息熵要定义成-Σp*log(p)?](https://www.zhihu.com/question/30828247)
+### 公开课
+  1. [DeepMind推出深度学习与强化学习进阶课程（附视频）](https://www.jiqizhixin.com/articles/2018-11-24-3), [Advanced Deep Learning & Reinforcement](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 
-### 面试
+### 问题
   1. [Choosing the Right Machine Learning Algorithm](https://hackernoon.com/choosing-the-right-machine-learning-algorithm-68126944ce1f)
   2. [41 Essential Machine Learning Interview Questions (with answers)](https://www.springboard.com/blog/machine-learning-interview-questions/)
+  3. [为什么信息熵要定义成-Σp*log(p)?](https://www.zhihu.com/question/30828247)
 
 
