@@ -40,6 +40,7 @@
   
 ### 公开课
   1. [DeepMind推出深度学习与强化学习进阶课程（附视频）](https://www.jiqizhixin.com/articles/2018-11-24-3), [Advanced Deep Learning & Reinforcement](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+  2. [Convolutional Neural Networks - Andrew Ng](https://www.coursera.org/learn/convolutional-neural-networks)
 
 ### 问题
   1. [Choosing the Right Machine Learning Algorithm](https://hackernoon.com/choosing-the-right-machine-learning-algorithm-68126944ce1f)
