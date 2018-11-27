@@ -5,6 +5,10 @@
   2. [【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。](https://github.com/Snailclimb/JavaGuide)</br>
   3. [crossoverJie: 处于萌芽阶段的 Java 核心知识库。](https://github.com/crossoverJie/JCSprout)</br>
 
+## 代码实践
+  1. [crossoverJie: 💕 build SSM from 0 👉🏽👉🏽 distributed micro service](https://github.com/crossoverJie/SSM)
+  2. [crossoverJie: 👬 springboot + springcloud build micro service](https://github.com/crossoverJie/springboot-cloud)
+
 ## 设计模式
   1. [经典设计模式实战演练](https://gitbook.cn/gitchat/column/5b1e3647294fb04d7c22b783#catalog)</br>
   
