@@ -3,6 +3,9 @@
   1. [awesome-python: A curated list of awesome Python frameworks, libraries, software and resources](https://github.com/vinta/awesome-python)</br>
   2. [one-python: We don't need a lot of libraries. We just need the best ones. | Unofficial recommended first choice.](https://github.com/geekan/one-python)</br>
   3. [schedule: Python job scheduling for humans.](https://github.com/dbader/schedule)
+
+## Python教程
+  1. [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
   
 ## 刷题
   1. [Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现](https://github.com/apachecn/awesome-algorithm/tree/master/docs/Leetcode_Solutions/Python)</br>
