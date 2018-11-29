@@ -42,7 +42,7 @@
   1. [DeepMind推出深度学习与强化学习进阶课程（附视频）](https://www.jiqizhixin.com/articles/2018-11-24-3), [Advanced Deep Learning & Reinforcement](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
   2. [Convolutional Neural Networks - Andrew Ng](https://www.coursera.org/learn/convolutional-neural-networks)
   3. [从Zero到Hero，OpenAI重磅发布深度强化学习资源](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650751601&idx=1&sn=7bd22dfcb1cf1b59418641282ca2cfe5&chksm=871a860fb06d0f19537938aa3e1d908b9d7057ddfbd2d17dccdc79d3654add4d35c0ce77830b&scene=21#wechat_redirect), [Spinning Up in Deep RL! produced by OpenAI that makes it easier to learn about deep reinforcement learning (deep RL)](https://spinningup.openai.com/en/latest/user/introduction.html#)
-  4. [Convolutional Neural Networks for Visual Recognition (Spring 2017) - Feifei Li](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+  4. [cs231n - Convolutional Neural Networks for Visual Recognition (Spring 2017) - Feifei Li](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
 ### 问题
   1. [Choosing the Right Machine Learning Algorithm](https://hackernoon.com/choosing-the-right-machine-learning-algorithm-68126944ce1f)
