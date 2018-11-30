@@ -40,6 +40,7 @@
   2. [闲话矩阵求导](xuehy.github.io/blog/2014/04/18/2014-04-18-matrixcalc/index.html)
   3. [机器学习中的矩阵/向量求导](https://zhuanlan.zhihu.com/p/25063314)
   4. [神经网络与深度学习(数学基础) - 邱锡鹏](https://nndl.github.io/chap-%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80.pdf)
+  5. [Applications of multivariable derivatives](https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives)
   
 ### 公开课
   1. [DeepMind推出深度学习与强化学习进阶课程（附视频）](https://www.jiqizhixin.com/articles/2018-11-24-3), [Advanced Deep Learning & Reinforcement](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
