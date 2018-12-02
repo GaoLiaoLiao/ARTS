@@ -34,6 +34,9 @@
   9. [机器学习爱好者知乎专栏 - 黄海广](https://zhuanlan.zhihu.com/fengdu78)
   10. [神经网络与深度学习 - 邱锡鹏](https://nndl.github.io)
   11. [CS229 - 吴恩达](https://open.163.com/movie/2008/1/B/O/M6SGF6VB4_M6SGHJ9BO.html), [CS229 - Notes](http://cs229.stanford.edu/syllabus.html)
+  12. [deep-learning-with-keras-notebooks](https://github.com/erhwenkuo/deep-learning-with-keras-notebooks)
+  
+  
 ### 数学基础
   1. [机器学习常用「微积分」知识速查手册](https://gitbook.cn/books/59ee907516fc0231837614e3/index.html)
   2. [闲话矩阵求导](xuehy.github.io/blog/2014/04/18/2014-04-18-matrixcalc/index.html)
