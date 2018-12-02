@@ -28,7 +28,7 @@
   2. [Jack Cui](cuijiahua.com)</br>
   3. [deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）](https://github.com/fengdu78/deeplearning_ai_books)
   4. [吴恩达老师的机器学习课程个人笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
-  6. [100_Numpy_exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb)
+  6. [收藏 | Numpy详细教程](https://mp.weixin.qq.com/s/fxR_ZvV5X5EKSFTyG8pK_g), [100_Numpy_exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb)
   7. [机器学习极简入门课 - 李烨](https://gitbook.cn/gitchat/column/5ad70dea9a722231b25ddbf8#catalog)
   8. [机器学习爱好者知乎专栏 - 黄海广](https://zhuanlan.zhihu.com/fengdu78)
   9. [神经网络与深度学习 - 邱锡鹏](https://nndl.github.io)
