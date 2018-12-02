@@ -27,13 +27,15 @@
   2. [Jack Cui](cuijiahua.com)</br>
   3. [deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）](https://github.com/fengdu78/deeplearning_ai_books)
   4. [吴恩达老师的机器学习课程个人笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
-  5. [100_Numpy_exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb)
-  6. [机器学习极简入门课 - 李烨](https://gitbook.cn/gitchat/column/5ad70dea9a722231b25ddbf8#catalog)
-  7. [《统计学习方法》笔记-基于Python算法实现](https://github.com/wzyonggege/statistical-learning-method), [《统计学习方法》一书中所有算法实现一遍 ](https://github.com/WenDesi/lihang_book_algorithm), [《统计学习方法》的代码实现](https://github.com/fengdu78/lihang-code)
-  9. [机器学习爱好者知乎专栏 - 黄海广](https://zhuanlan.zhihu.com/fengdu78)
-  10. [神经网络与深度学习 - 邱锡鹏](https://nndl.github.io)
-  11. [CS229 - 吴恩达](https://open.163.com/movie/2008/1/B/O/M6SGF6VB4_M6SGHJ9BO.html), [CS229 - Notes](http://cs229.stanford.edu/syllabus.html)
-  12. [deep-learning-with-keras-notebooks](https://github.com/erhwenkuo/deep-learning-with-keras-notebooks)
+  5. [《统计学习方法》的代码实现](https://github.com/fengdu78/lihang-code)</br>
+     [《统计学习方法》笔记-基于Python算法实现](https://github.com/wzyonggege/statistical-learning-method)</br>
+     [《统计学习方法》一书中所有算法实现一遍 ](https://github.com/WenDesi/lihang_book_algorithm)</br>
+  6. [100_Numpy_exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb)
+  7. [机器学习极简入门课 - 李烨](https://gitbook.cn/gitchat/column/5ad70dea9a722231b25ddbf8#catalog)
+  8. [机器学习爱好者知乎专栏 - 黄海广](https://zhuanlan.zhihu.com/fengdu78)
+  9. [神经网络与深度学习 - 邱锡鹏](https://nndl.github.io)
+  10. [CS229 - 吴恩达](https://open.163.com/movie/2008/1/B/O/M6SGF6VB4_M6SGHJ9BO.html), [CS229 - Notes](http://cs229.stanford.edu/syllabus.html)
+  11. [deep-learning-with-keras-notebooks](https://github.com/erhwenkuo/deep-learning-with-keras-notebooks)
   
   
 ### 数学基础
