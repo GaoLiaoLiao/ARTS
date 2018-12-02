@@ -35,7 +35,7 @@
       [CS229 - Notes](http://cs229.stanford.edu/syllabus.html)
 
 ### 代码实现
-  1. [MachineLearningInAction-Camp 机器学习实战源码](https://github.com/RedstoneWill/MachineLearningInAction-Camp)
+  1. [MachineLearningInAction-Camp 机器学习实战算法实现](https://github.com/RedstoneWill/MachineLearningInAction-Camp)
   5. [《统计学习方法》的代码实现](https://github.com/fengdu78/lihang-code)</br>
      [《统计学习方法》笔记-基于Python算法实现](https://github.com/wzyonggege/statistical-learning-method)</br>
      [《统计学习方法》一书中所有算法实现一遍 ](https://github.com/WenDesi/lihang_book_algorithm)</br>
