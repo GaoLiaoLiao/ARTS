@@ -34,7 +34,8 @@
   7. [机器学习极简入门课 - 李烨](https://gitbook.cn/gitchat/column/5ad70dea9a722231b25ddbf8#catalog)
   8. [机器学习爱好者知乎专栏 - 黄海广](https://zhuanlan.zhihu.com/fengdu78)
   9. [神经网络与深度学习 - 邱锡鹏](https://nndl.github.io)
-  10. [CS229 - 吴恩达](https://open.163.com/movie/2008/1/B/O/M6SGF6VB4_M6SGHJ9BO.html), [CS229 - Notes](http://cs229.stanford.edu/syllabus.html)
+  10. [CS229 - 吴恩达](https://open.163.com/movie/2008/1/B/O/M6SGF6VB4_M6SGHJ9BO.html)</br>
+      [CS229 - Notes](http://cs229.stanford.edu/syllabus.html)
   11. [deep-learning-with-keras-notebooks](https://github.com/erhwenkuo/deep-learning-with-keras-notebooks)
   
   
