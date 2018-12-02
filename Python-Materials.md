@@ -15,8 +15,8 @@
 ## 设计模式
   1. [Design Pattern: A collection of design patterns/idioms in Python](https://github.com/faif/python-patterns)</br>
   2. [从生活中领悟设计模式（Python）](https://gitbook.cn/gitchat/column/5b26040ac81ac568fcf64ea3)</br>
-  3. [一看就懂！通过英雄联盟锐雯详解 Python 设计模式之门面模式！](https://mp.weixin.qq.com/s/M-4dHNxL2RzExd1mUc0H8w)
-  4. [一看就懂【来自英雄联盟盖伦的怒吼】与 Python 详解设计模式（二）观察者模式](https://mp.weixin.qq.com/s/EcYVSux6-rACsnXweDgmig)</br>
+  3. [一看就懂！通过英雄联盟锐雯详解 Python 设计模式之门面模式！](https://mp.weixin.qq.com/s/M-4dHNxL2RzExd1mUc0H8w)</br>
+     [一看就懂【来自英雄联盟盖伦的怒吼】与 Python 详解设计模式（二）观察者模式](https://mp.weixin.qq.com/s/EcYVSux6-rACsnXweDgmig)</br>
   
 ## 爬虫
   1. [爬虫：Python3网络爬虫实战](https://github.com/Jack-Cherish/python-spider)</br>
