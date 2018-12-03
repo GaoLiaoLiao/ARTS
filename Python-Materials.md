@@ -42,6 +42,7 @@
      [《统计学习方法》笔记-基于Python算法实现](https://github.com/wzyonggege/statistical-learning-method)</br>
      [《统计学习方法》一书中所有算法实现一遍 ](https://github.com/WenDesi/lihang_book_algorithm)</br>
   3. [deep-learning-with-keras-notebooks](https://github.com/erhwenkuo/deep-learning-with-keras-notebooks)
+  4. [Deep Learning Assignments - Andrew Ng](https://github.com/rvarun7777/Deep_Learning)
   
 ### 数学基础
   1. [机器学习常用「微积分」知识速查手册](https://gitbook.cn/books/59ee907516fc0231837614e3/index.html)
