@@ -3,6 +3,8 @@
   1. [awesome-python: A curated list of awesome Python frameworks, libraries, software and resources](https://github.com/vinta/awesome-python)</br>
   2. [one-python: We don't need a lot of libraries. We just need the best ones. | Unofficial recommended first choice.](https://github.com/geekan/one-python)</br>
   3. [schedule: Python job scheduling for humans.](https://github.com/dbader/schedule)
+  4. [500 Lines or Less](https://github.com/aosabook/500lines)</br>
+     [500 line or less 中文翻译计划](https://github.com/HT524/500LineorLess_CN)
 
 ## Python教程
   1. [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
