@@ -18,8 +18,9 @@
   1. [Martin Kleppmann](martin.kleppmann.com)
   2. [Consistency in Distributed Systems](https://mwhittaker.github.io/consistency_in_distributed_systems/)</br>
   3. [【Raft】Visualizations Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/)</br>
+     [Paxos、Raft算法当前阶段比较稳定的，经过生产环境验证的开源实现有哪些？](https://www.zhihu.com/question/53344734)
   4. [知乎专栏 - 分布式和存储的那些事](https://zhuanlan.zhihu.com/distributed-storage)
-
+  
 ## System Desgin 
   1. [System Design Interview - A Coder's Journey](http://www.acodersjourney.com/tag/system-design-interviews/)
 
