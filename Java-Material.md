@@ -23,6 +23,7 @@
   
 ## System Desgin 
   1. [System Design Interview - A Coder's Journey](http://www.acodersjourney.com/tag/system-design-interviews/)
+  2. [数据库内核月报](mysql.taobao.org/monthly/)
 
 
 ## 杂
