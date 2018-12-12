@@ -45,7 +45,9 @@
   8. [神经网络与深度学习 - 邱锡鹏](https://nndl.github.io)
   9. [CS229 - 吴恩达](https://open.163.com/movie/2008/1/B/O/M6SGF6VB4_M6SGHJ9BO.html)</br>
       [CS229 - Notes](http://cs229.stanford.edu/syllabus.html)
-
+  
+  
+  
 ### 代码实现
   1. [MachineLearningInAction-Camp 机器学习实战算法实现](https://github.com/RedstoneWill/MachineLearningInAction-Camp)
   2. [《统计学习方法》的代码实现](https://github.com/fengdu78/lihang-code)</br>
@@ -53,6 +55,7 @@
      [《统计学习方法》一书中所有算法实现一遍 ](https://github.com/WenDesi/lihang_book_algorithm)</br>
   3. [deep-learning-with-keras-notebooks](https://github.com/erhwenkuo/deep-learning-with-keras-notebooks)
   4. [Deep Learning Assignments - Andrew Ng](https://github.com/rvarun7777/Deep_Learning)
+  5. [PRML algorithms implemented in Python](https://github.com/ctgk/PRML)
   
 ### 数学基础
   1. [机器学习常用「微积分」知识速查手册](https://gitbook.cn/books/59ee907516fc0231837614e3/index.html)
