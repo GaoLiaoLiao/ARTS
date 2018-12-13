@@ -45,7 +45,8 @@
   8. [神经网络与深度学习 - 邱锡鹏](https://nndl.github.io)
   9. [CS229 - 吴恩达](https://open.163.com/movie/2008/1/B/O/M6SGF6VB4_M6SGHJ9BO.html)</br>
       [CS229 - Notes](http://cs229.stanford.edu/syllabus.html)
-  
+  10. [PracticalAI: A practical approach to learning machine learning.](https://github.com/GokuMohandas/practicalAI/)</br>
+      [PracticalAI深度学习教程](https://www.zhihu.com/question/21277368/answer/550671387)
   
   
 ### 代码实现
