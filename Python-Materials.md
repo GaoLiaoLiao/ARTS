@@ -47,7 +47,10 @@
       [CS229 - Notes](http://cs229.stanford.edu/syllabus.html)
   10. [PracticalAI: A practical approach to learning machine learning.](https://github.com/GokuMohandas/practicalAI/)</br>
       [PracticalAI深度学习教程](https://www.zhihu.com/question/21277368/answer/550671387)
-  
+  11. [强烈推荐的TensorFlow、Pytorch和Keras的样例资源（深度学习初学者必须收藏）](https://zhuanlan.zhihu.com/p/51866340)</br>
+      [TensorFlow Tutorial and Examples for Beginners with Latest APIs](https://github.com/aymericdamien/TensorFlow-Examples)</br>
+      [Jupyter notebooks for using & learning Keras](https://github.com/erhwenkuo/deep-learning-with-keras-notebooks)</br>
+      [PyTorch Tutorial for Deep Learning Researchers](https://github.com/yunjey/pytorch-tutorial)
   
 ### 代码实现
   1. [MachineLearningInAction-Camp 机器学习实战算法实现](https://github.com/RedstoneWill/MachineLearningInAction-Camp)
