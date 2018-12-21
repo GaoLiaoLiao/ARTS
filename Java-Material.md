@@ -30,3 +30,6 @@
 ## 杂
   1. [开源项目挣钱实用手册](https://github.com/wizicer/FinancialSupportForOpenSource)
   2. [git-flight-rules](https://github.com/k88hudson/git-flight-rules)
+
+## 开源项目
+  1. [mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现](https://github.com/macrozheng/mall)
