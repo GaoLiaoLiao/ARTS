@@ -4,7 +4,8 @@
   1. [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)</br>
   2. [【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。](https://github.com/Snailclimb/JavaGuide)</br>
   3. [crossoverJie: 处于萌芽阶段的 Java 核心知识库。](https://github.com/crossoverJie/JCSprout)</br>
-  4. [3y文章导航](https://github.com/ZhongFuCheng3y/3y)
+  4. [😮 互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
+  5. [3y文章导航](https://github.com/ZhongFuCheng3y/3y)
 
 ## 代码实践
   1. [crossoverJie: 💕 build SSM from 0 👉🏽👉🏽 distributed micro service](https://github.com/crossoverJie/SSM)
@@ -30,3 +31,6 @@
 ## 杂
   1. [开源项目挣钱实用手册](https://github.com/wizicer/FinancialSupportForOpenSource)
   2. [git-flight-rules](https://github.com/k88hudson/git-flight-rules)
+
+## 开源项目
+  1. [mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现](https://github.com/macrozheng/mall)
