@@ -6,6 +6,7 @@
   4. [500 Lines or Less](https://github.com/aosabook/500lines)</br>
      [500 line or less 中文翻译计划](https://github.com/HT524/500LineorLess_CN)
   5. [【编程随想】收藏的开源项目清单](https://github.com/programthink/opensource)
+  6. [💿 Free software that works great, and also happens to be open-source Python.](https://github.com/mahmoud/awesome-python-applications)
 
 ## Python教程
   1. [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
