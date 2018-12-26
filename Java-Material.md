@@ -27,6 +27,8 @@
   1. [System Design Interview - A Coder's Journey](http://www.acodersjourney.com/tag/system-design-interviews/)
   2. [数据库内核月报](http://mysql.taobao.org/monthly/)
 
+## 技术专栏
+  1. [码洞 - 码出个未来](https://zhuanlan.zhihu.com/codehole)
 
 ## 杂
   1. [开源项目挣钱实用手册](https://github.com/wizicer/FinancialSupportForOpenSource)
