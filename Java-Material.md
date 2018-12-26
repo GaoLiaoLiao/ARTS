@@ -30,6 +30,9 @@
 ## 技术专栏
   1. [码洞 - 码出个未来](https://zhuanlan.zhihu.com/codehole)
 
+## 刷题
+  1. [Segment Tree](https://jackalsin.gitbooks.io/algorithm/content/Topic/segment-tree.html)
+
 ## 杂
   1. [开源项目挣钱实用手册](https://github.com/wizicer/FinancialSupportForOpenSource)
   2. [git-flight-rules](https://github.com/k88hudson/git-flight-rules)
