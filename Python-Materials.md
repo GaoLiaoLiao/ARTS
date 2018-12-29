@@ -26,13 +26,15 @@
   
 ## 爬虫
   1. [爬虫：Python3网络爬虫实战](https://github.com/Jack-Cherish/python-spider)</br>
-  2. [爬虫：Python3WebSpider](https://github.com/Python3WebSpider)</br>
-  3. [链家二手房租房在线数据](https://github.com/XuefengHuang/lianjia-scrawler)
-  4. [Regex tutorial — A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
-  5. [爬虫集合](https://github.com/facert/awesome-spider)
-  6. [高效微信公众号历史文章和阅读数据爬虫powered by scrapy](https://github.com/wonderfulsuccess/weixin_crawler)</br>
+     [静觅 崔庆才的个人博客](https://cuiqingcai.com)
+  2. [Jack Cui - 网路爬虫文章](https://cuijiahua.com/blog/spider/)
+  3. [爬虫：Python3WebSpider](https://github.com/Python3WebSpider)</br>
+  4. [链家二手房租房在线数据](https://github.com/XuefengHuang/lianjia-scrawler)
+  5. [Regex tutorial — A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
+  6. [爬虫集合](https://github.com/facert/awesome-spider)
+  7. [高效微信公众号历史文章和阅读数据爬虫powered by scrapy](https://github.com/wonderfulsuccess/weixin_crawler)</br>
      [Python大佬开发了一个爬虫项目教你实现公众号文章的抓取和统计分析](https://mp.weixin.qq.com/s/QnWPpZfjltiTxXHnJmLgFA)
-  7. [Python爬虫代理IP池(proxy pool)](https://github.com/jhao104/proxy_pool)
+  8. [Python爬虫代理IP池(proxy pool)](https://github.com/jhao104/proxy_pool)
 
 ## 机器学习
   1. [机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归](https://github.com/Jack-Cherish/Machine-Learning)</br>
