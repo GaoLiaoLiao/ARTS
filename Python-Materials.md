@@ -25,9 +25,11 @@
      [一看就懂【来自英雄联盟盖伦的怒吼】与 Python 详解设计模式（二）观察者模式](https://mp.weixin.qq.com/s/EcYVSux6-rACsnXweDgmig)</br>
   
 ## 爬虫
-  1. [爬虫：Python3网络爬虫实战](https://github.com/Jack-Cherish/python-spider)</br>
+  1. [Python3网络爬虫实战代码](https://github.com/Python3WebSpider)</br>
      [静觅 崔庆才的个人博客](https://cuiqingcai.com)
-  2. [Jack Cui - 网路爬虫文章](https://cuijiahua.com/blog/spider/)
+  2. [Jack Cui - 网路爬虫文章](https://cuijiahua.com/blog/spider/)</br>
+     [CSDN专栏 - Python3网络爬虫入门](https://blog.csdn.net/c406495762/column/info/15321)</br>
+     [Github - 🌈Python3网络爬虫实战](https://github.com/Jack-Cherish/python-spider)
   3. [爬虫：Python3WebSpider](https://github.com/Python3WebSpider)</br>
   4. [链家二手房租房在线数据](https://github.com/XuefengHuang/lianjia-scrawler)
   5. [Regex tutorial — A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
