@@ -57,6 +57,7 @@
       [TensorFlow Tutorial and Examples for Beginners with Latest APIs](https://github.com/aymericdamien/TensorFlow-Examples)</br>
       [Jupyter notebooks for using & learning Keras](https://github.com/erhwenkuo/deep-learning-with-keras-notebooks)</br>
       [PyTorch Tutorial for Deep Learning Researchers](https://github.com/yunjey/pytorch-tutorial)
+  12. [新年大礼包：机器之心2018高分教程合集](https://mp.weixin.qq.com/s/0oWP61o7fP-x3ir5KSHT4Q)
   
 ### 代码实现
   1. [MachineLearningInAction-Camp 机器学习实战算法实现](https://github.com/RedstoneWill/MachineLearningInAction-Camp)
