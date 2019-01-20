@@ -12,6 +12,7 @@
   1. [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
   2. [wtfpython - A collection of surprising Python snippets and lesser-known features.](https://github.com/satwikkansal/wtfpython)</br>
      [wtfpython-cn - wtfpython的中文翻译](https://github.com/leisurelicht/wtfpython-cn)
+  3. [Speed Up Your Python Program With Concurrency](https://realpython.com/python-concurrency/#how-to-speed-up-an-io-bound-program)
   
 ## 刷题
   1. [Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现](https://github.com/apachecn/awesome-algorithm/tree/master/docs/Leetcode_Solutions/Python)</br>
