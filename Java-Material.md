@@ -36,6 +36,7 @@
 
 ## 刷题
   1. [Segment Tree](https://jackalsin.gitbooks.io/algorithm/content/Topic/segment-tree.html)
+  2. [Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）](https://github.com/MisterBooo/LeetCodeAnimation)
 
 ## 杂
   1. [开源项目挣钱实用手册](https://github.com/wizicer/FinancialSupportForOpenSource)
