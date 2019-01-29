@@ -15,6 +15,8 @@
   1. [crossoverJie: 💕 build SSM from 0 👉🏽👉🏽 distributed micro service](https://github.com/crossoverJie/SSM)
   2. [crossoverJie: 👬 springboot + springcloud build micro service](https://github.com/crossoverJie/springboot-cloud)
   3. [:octocat: GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目⭐️](https://github.com/521xueweihan/HelloGitHub)
+  4. [Halo可能是最好的Java博客系统😉](https://github.com/ruibaby/halo)
+  5. [:octocat: 分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目⭐️](https://github.com/521xueweihan/HelloGitHub)
 
 ## 设计模式
   1. [经典设计模式实战演练](https://gitbook.cn/gitchat/column/5b1e3647294fb04d7c22b783#catalog)</br>
