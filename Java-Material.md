@@ -11,11 +11,12 @@
   8. [汇总java生态圈常用技术框架、开源中间件，系统架构、项目管理、经典架构案例、数据库、常用三方库、线上运维等知识](https://github.com/aalansehaiyang/technology-talk)
 
 
-## 代码实践
+## 开源项目
   1. [crossoverJie: 💕 build SSM from 0 👉🏽👉🏽 distributed micro service](https://github.com/crossoverJie/SSM)
   2. [crossoverJie: 👬 springboot + springcloud build micro service](https://github.com/crossoverJie/springboot-cloud)
   3. [:octocat: 分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目⭐️](https://github.com/521xueweihan/HelloGitHub)
   4. [Halo可能是最好的Java博客系统😉](https://github.com/ruibaby/halo)
+  5. [mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现](https://github.com/macrozheng/mall)
 
 
 ## 设计模式
@@ -40,10 +41,9 @@
   1. [Segment Tree](https://jackalsin.gitbooks.io/algorithm/content/Topic/segment-tree.html)
   2. [Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）](https://github.com/MisterBooo/LeetCodeAnimation)
 
+## 面试
+  1. [写在19年初的后端社招面试经历(两年经验): 蚂蚁 头条 PingCAP](https://aylei.github.io/blog/interview-experience/)
 ## 杂
   1. [开源项目挣钱实用手册](https://github.com/wizicer/FinancialSupportForOpenSource)
   2. [git-flight-rules](https://github.com/k88hudson/git-flight-rules)
   3. [🙈程序员找工作黑名单，换工作和当技术合伙人需谨慎啊](https://github.com/shengxinjing/programmer-job-blacklist)
-
-## 开源项目
-  1. [mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现](https://github.com/macrozheng/mall)
