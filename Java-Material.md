@@ -17,6 +17,8 @@
   3. [:octocat: 分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目⭐️](https://github.com/521xueweihan/HelloGitHub)
   4. [Halo可能是最好的Java博客系统😉](https://github.com/ruibaby/halo)
   5. [mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现](https://github.com/macrozheng/mall)
+  6. [⛹️🐘秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓](https://github.com/qiurunze123/miaosha)
+  7. [GitHub精选 - 章鱼猫每天为您推送精心挑选的优质的GitHub 开源项目](https://zhuanlan.zhihu.com/githubdaily)
 
 
 ## 设计模式
