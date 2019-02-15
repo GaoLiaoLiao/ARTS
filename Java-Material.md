@@ -38,6 +38,7 @@
 
 ## 技术专栏
   1. [码洞 - 码出个未来](https://zhuanlan.zhihu.com/codehole)
+  2. [Java技术栈](https://www.zhihu.com/people/itroad/activities)
 
 ## 刷题
   1. [Segment Tree](https://jackalsin.gitbooks.io/algorithm/content/Topic/segment-tree.html)
