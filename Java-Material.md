@@ -36,9 +36,11 @@
   1. [System Design Interview - A Coder's Journey](http://www.acodersjourney.com/tag/system-design-interviews/)
   2. [数据库内核月报](http://mysql.taobao.org/monthly/)
 
-## 技术专栏
+## 技术专栏 & 博客
   1. [码洞 - 码出个未来](https://zhuanlan.zhihu.com/codehole)
   2. [Java技术栈](https://www.zhihu.com/people/itroad/activities)
+  3. [Jark's Blog](wuchong.me/archives/)
+  4. [编程小梦](https://blog.bcmeng.com/)
 
 ## 刷题
   1. [Segment Tree](https://jackalsin.gitbooks.io/algorithm/content/Topic/segment-tree.html)
