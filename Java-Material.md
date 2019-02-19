@@ -42,7 +42,7 @@
   2. [Java技术栈](https://www.zhihu.com/people/itroad/activities)
   3. [Jark's Blog](wuchong.me/archives/)
   4. [编程小梦](https://blog.bcmeng.com/)
-  5. [GitHub Daily挖掘开源的价值](https://www.zhihu.com/people/githubdaily/activities)
+  5. [GitHub Daily - 挖掘开源的价值](https://www.zhihu.com/people/githubdaily/activities)
 
 ## 刷题
   1. [Segment Tree](https://jackalsin.gitbooks.io/algorithm/content/Topic/segment-tree.html)
