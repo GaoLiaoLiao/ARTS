@@ -19,6 +19,7 @@
   5. [mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现](https://github.com/macrozheng/mall)
   6. [⛹️🐘秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓](https://github.com/qiurunze123/miaosha)
   7. [GitHub精选 - 章鱼猫每天为您推送精心挑选的优质的GitHub 开源项目](https://zhuanlan.zhihu.com/githubdaily)
+  8. [GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。](https://github.com/GitHubDaily/GitHubDaily)
 
 
 ## 设计模式
@@ -41,6 +42,7 @@
   2. [Java技术栈](https://www.zhihu.com/people/itroad/activities)
   3. [Jark's Blog](wuchong.me/archives/)
   4. [编程小梦](https://blog.bcmeng.com/)
+  5. [GitHub Daily挖掘开源的价值](https://www.zhihu.com/people/githubdaily/activities)
 
 ## 刷题
   1. [Segment Tree](https://jackalsin.gitbooks.io/algorithm/content/Topic/segment-tree.html)
