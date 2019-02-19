@@ -43,6 +43,7 @@
   3. [Jark's Blog](wuchong.me/archives/)
   4. [编程小梦](https://blog.bcmeng.com/)
   5. [GitHub Daily - 挖掘开源的价值](https://www.zhihu.com/people/githubdaily/activities)
+  6. [hollis: To Be Top Javaer - Java工程师成神之路](https://github.com/hollischuang/toBeTopJavaer)
 
 ## 刷题
   1. [Segment Tree](https://jackalsin.gitbooks.io/algorithm/content/Topic/segment-tree.html)
