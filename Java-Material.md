@@ -52,6 +52,9 @@
 
 ## 面试
   1. [写在19年初的后端社招面试经历(两年经验): 蚂蚁 头条 PingCAP](https://aylei.github.io/blog/interview-experience/)
+  2. [Java面试通关要点汇总集【终极版】](blog.720ui.com/2018/java_interview_final/?from=groupmessage&isappinstalled=0)
+  
+  
 ## 杂
   1. [开源项目挣钱实用手册](https://github.com/wizicer/FinancialSupportForOpenSource)
   2. [git-flight-rules](https://github.com/k88hudson/git-flight-rules)
