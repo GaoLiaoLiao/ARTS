@@ -20,7 +20,7 @@
   6. [⛹️🐘秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓](https://github.com/qiurunze123/miaosha)
   7. [GitHub精选 - 章鱼猫每天为您推送精心挑选的优质的GitHub 开源项目](https://zhuanlan.zhihu.com/githubdaily)
   8. [GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。](https://github.com/GitHubDaily/GitHubDaily)
-
+  9. [基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构](https://github.com/shuzheng/zheng)
 
 ## 设计模式
   1. [经典设计模式实战演练](https://gitbook.cn/gitchat/column/5b1e3647294fb04d7c22b783#catalog)</br>
