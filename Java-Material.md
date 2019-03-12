@@ -23,6 +23,7 @@
   9. [基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构](https://github.com/shuzheng/zheng)
   10. [纯洁的微笑 - Spring Cloud 学习案例，服务发现、服务治理、链路追踪、服务监控等](https://github.com/ityouknow/spring-cloud-examples)
   11. [纯洁的微笑 - Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。](https://github.com/ityouknow/spring-boot-examples)
+  12. [云收藏 Spring Boot 2.0 开源项目](https://github.com/cloudfavorites/favorites-web)
 
 ## 设计模式
   1. [经典设计模式实战演练](https://gitbook.cn/gitchat/column/5b1e3647294fb04d7c22b783#catalog)</br>
