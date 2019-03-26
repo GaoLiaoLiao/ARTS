@@ -10,6 +10,7 @@
   7. [🚀 Full Stack Developer Tutorial，后台技术栈/架构师成长之路，春招/秋招/校招/面试。](https://github.com/frank-lam/fullstack-tutorial)
   8. [汇总java生态圈常用技术框架、开源中间件，系统架构、项目管理、经典架构案例、数据库、常用三方库、线上运维等知识](https://github.com/aalansehaiyang/technology-talk)
   9. [Java is Growing up but not only Java。Java成长路线，但学到不仅仅是Java。](https://github.com/javagrowing/JGrowing)
+  10. [Java 学习/面试指南](http://snailclimb.top/JavaGuide/#/), [Java 学习/面试指南](https://snailclimb.gitee.io/javaguide/#/)
 
 ## 开源项目
   1. [crossoverJie: 💕 build SSM from 0 👉🏽👉🏽 distributed micro service](https://github.com/crossoverJie/SSM)
