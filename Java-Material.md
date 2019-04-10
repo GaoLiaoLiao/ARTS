@@ -1,7 +1,7 @@
 # Java
 
 ## 知识笔记
-  1. [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)</br>
+  1. [CyC2018/CS-Notes - 📚 技术面试必备基础知识](https://github.com/CyC2018/CS-Notes)</br>
   2. [【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。](https://github.com/Snailclimb/JavaGuide)</br>
   3. [crossoverJie: 处于萌芽阶段的 Java 核心知识库。](https://github.com/crossoverJie/JCSprout)</br>
   4. [😮 互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
