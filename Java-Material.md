@@ -12,7 +12,7 @@
   9. [Java is Growing up but not only Java。Java成长路线，但学到不仅仅是Java。](https://github.com/javagrowing/JGrowing)
   10. [Java 学习/面试指南](http://snailclimb.top/JavaGuide/#/), [Java 学习/面试指南](https://snailclimb.gitee.io/javaguide/#/)
   11. [Web安全学习笔记](https://github.com/LyleMi/Learn-Web-Hacking)
-  12.[hedengcheng - programming, database, distributed system](https://github.com/hedengcheng/tech)
+  12. [hedengcheng - programming, database, distributed system](https://github.com/hedengcheng/tech)
   
 ## 开源项目
   1. [crossoverJie: 💕 build SSM from 0 👉🏽👉🏽 distributed micro service](https://github.com/crossoverJie/SSM)
