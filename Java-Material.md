@@ -27,6 +27,8 @@
   10. [纯洁的微笑 - Spring Cloud 学习案例，服务发现、服务治理、链路追踪、服务监控等](https://github.com/ityouknow/spring-cloud-examples)
   11. [纯洁的微笑 - Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。](https://github.com/ityouknow/spring-boot-examples)
   12. [云收藏 Spring Boot 2.0 开源项目](https://github.com/cloudfavorites/favorites-web)
+  13. [微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。](https://github.com/lenve/vhr)
+  14. [提供一套基于Spring Boot-Shiro-Vue的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限](https://github.com/Heeexy/SpringBoot-Shiro-Vue)
 
 ## 设计模式
   1. [经典设计模式实战演练](https://gitbook.cn/gitchat/column/5b1e3647294fb04d7c22b783#catalog)</br>
