@@ -39,6 +39,7 @@
      [Python大佬开发了一个爬虫项目教你实现公众号文章的抓取和统计分析](https://mp.weixin.qq.com/s/QnWPpZfjltiTxXHnJmLgFA)
   8. [Python爬虫代理IP池(proxy pool)](https://github.com/jhao104/proxy_pool)
   9. [😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟](https://github.com/CriseLYJ/awesome-python-login-model)
+  10. [python爬虫例子,对新手比较友好。](https://github.com/shengqiangzhang/examples-of-web-crawlers)
 
 ## 机器学习
   1. [机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归](https://github.com/Jack-Cherish/Machine-Learning)</br>
