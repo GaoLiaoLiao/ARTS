@@ -55,6 +55,7 @@
   5. [GitHub Daily - 挖掘开源的价值](https://www.zhihu.com/people/githubdaily/activities)
   6. [hollis: To Be Top Javaer - Java工程师成神之路](https://github.com/hollischuang/toBeTopJavaer)
   7. [Coding Geek - A blog about IT, programming and Java](coding-geek.com)
+  8. [Java知识讲解 -【zejian的博客】](https://blog.csdn.net/javazejian/article/details/73413292#编写自己的类加载器)
 
 ## 刷题
   1. [Segment Tree](https://jackalsin.gitbooks.io/algorithm/content/Topic/segment-tree.html)
