@@ -29,7 +29,8 @@
   12. [云收藏 Spring Boot 2.0 开源项目](https://github.com/cloudfavorites/favorites-web)
   13. [微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。](https://github.com/lenve/vhr)
   14. [提供一套基于Spring Boot-Shiro-Vue的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限](https://github.com/Heeexy/SpringBoot-Shiro-Vue)
-  15. [litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端](https://github.com/linlinjava/litemall)
+  15. [又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
+](https://github.com/linlinjava/litemall)
   16. [🌱🚀一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~](https://github.com/lihengming/spring-boot-api-project-seed?from=groupmessage&isappinstalled=0)
 
 ## 设计模式
