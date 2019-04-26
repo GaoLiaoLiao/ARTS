@@ -69,6 +69,7 @@
   4. [Java 学习/面试指南](http://snailclimb.top/JavaGuide/#/), [Java 学习/面试指南](https://snailclimb.gitee.io/javaguide/#/)
   5. [芋道源码 - Java面试题 - 精品合集](www.iocoder.cn/Interview/good-collection/?title)
   6. [2019届秋招面经集合](https://github.com/zslomo/2019-Autumn-recruitment-experience)
+  7. [写在19年初的后端社招面试经历🤑(文末有内推)](https://github.com/aylei/interview)
   
 ## 源码
   1. [芋道源码 —— 纯源码解析博客](www.iocoder.cn)
